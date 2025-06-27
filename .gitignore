@@ -1,1 +1,4 @@
+# Python envs / VS Code / macOS
+__pycache__/
+*.pyc
 .env
